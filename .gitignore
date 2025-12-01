@@ -33,7 +33,6 @@ env/
 *.swo
 
 # Project specific
-transcripts/
 *.log
 .env
 
